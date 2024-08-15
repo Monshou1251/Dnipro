@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0,0,256,256"
+   width="48px"
+   height="48px"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="soc-facebook.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="24.541667"
+     inkscape:cx="24"
+     inkscape:cy="25.466893"
+     inkscape:window-width="2560"
+     inkscape:window-height="1382"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <g
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode:normal"
+     id="g3"
+     transform="matrix(1.3089543,0,0,1.3089543,-39.460385,-39.473967)">
+    <g
+       transform="scale(5.33333)"
+       id="g2">
+      <path
+         d="m 42,37 c 0,2.762 -2.238,5 -5,5 H 11 C 8.239,42 6,39.762 6,37 V 11 C 6,8.238 8.239,6 11,6 h 26 c 2.762,0 5,2.238 5,5 z"
+         fill="#5c7cfa"
+         id="path1" />
+      <path
+         d="M 34.368,25 H 31 V 38 H 26 V 25 h -3 v -4 h 3 V 18.59 C 26.002,15.082 27.459,13 31.592,13 H 35 v 4 H 32.713 C 31.104,17 31,17.6 31,18.723 V 21 h 4 z"
+         fill="#ffffff"
+         id="path2" />
+    </g>
+  </g>
+</svg>
